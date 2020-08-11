@@ -27,3 +27,6 @@ as you can tell is the constant before the integration
 &
 
 and y is the non integration equation
+
+
+By the Way , I have changed in the function for second example
