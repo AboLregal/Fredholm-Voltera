@@ -3,18 +3,20 @@
 from the pdf I used Example 4.2 as second example folder
 and the first example is 4.3
 
-Const1
-is the constant function not (x(t))
-but H1
-is the x(t)
+&
+
+Const1 is the constant function not (x(t))
+
+but H1is the x(t)
+
 that is for the integration from 0 to s
 
 &
 
-Const2
-is the constant function not (x(t))
-but H2
-is the x(t)
+Const2 is the constant function not (x(t))
+
+but H2 is the x(t)
+
 that is for the integration from 0 to 1
 
 &
